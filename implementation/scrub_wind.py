@@ -82,3 +82,5 @@ while True:
 # Access Page (Alternative way to access just speed)
 #m = re.search('wind_speed=(.+?)">', str(page.content))
 #spd2 = m.group(1)
+
+
